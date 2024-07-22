@@ -1,0 +1,35 @@
+Package: CARM
+Title: Covariate-Adjusted Adaptive Randomization via
+        Mahalanobis-Distance
+Version: 1.1.0
+Authors@R: c(person(given = "Haoyu",
+           family = "Yang",
+           role = c("aut"),
+           email = "haoyuyang@ruc.edu.cn"),
+           person(given = "Fanglu",
+           family = "Chen",
+           role = c("aut", "cre"),
+           email = "chenfanglu1031@qq.com"),
+           person(given = "Yichen",
+           family = "Qin",
+           role = c("aut"),
+           email = "qinyn@ucmail.uc.edu"),
+           person(given = "Yang",
+           family = "Li",
+           role = c("aut"),
+           email = "yang.li@ruc.edu.cn"))
+Author: Haoyu Yang [aut],
+  Fanglu Chen [aut, cre],
+  Yichen Qin [aut],
+  Yang Li [aut]
+Maintainer: Fanglu Chen <chenfanglu1031@qq.com>
+Description: In randomized controlled trial (RCT), balancing covariate is often one of the most important concern. CARM package provides functions to balance the covariates and generate allocation sequence by covariate-adjusted Adaptive Randomization via Mahalanobis-distance (ARM) for RCT. About what ARM is and how it works please see Y. Qin, Y. Li, W. Ma, H. Yang, and F. Hu (2022). "Adaptive randomization via Mahalanobis distance" Statistica Sinica. <doi:10.5705/ss.202020.0440>. In addition, the package is also suitable for the randomization process of multi-arm trials. For details, please see Yang H, Qin Y, Wang F, et al. (2023). "Balancing covariates in multi-arm trials via adaptive randomization" Computational Statistics & Data Analysis.<doi:10.1016/j.csda.2022.107642>.
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Depends: R(>= 3.6.0),stats
+Imports: arrangements,dplyr,MASS
+NeedsCompilation: no
+Packaged: 2023-06-07 15:17:17 UTC; star
+Repository: CRAN
+Date/Publication: 2023-06-07 16:40:14 UTC
