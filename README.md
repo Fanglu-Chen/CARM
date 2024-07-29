@@ -8,5 +8,5 @@ Directly download in R; for detailed information, please visit [the website.](ht
 
 Publications
 -----
-[1]Qin, Y., Y. Li, W. Ma, H. Yang, and F. Hu (2022). Adaptive randomization via mahalanobis distance. Statistica Sinica.[the website.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0440_na.pdf)
+[1]Yichen Qin, Yang Li, Wei Ma, Haoyu Yang, and Feifang Hu(2022). Adaptive randomization via mahalanobis distance. Statistica Sinica. [the website.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0440_na.pdf)
 
