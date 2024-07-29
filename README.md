@@ -2,7 +2,11 @@ Description
 ----
 In randomized controlled trial (RCT), balancing covariate is often one of the most important concern. CARM package provides functions to balance the covariates and generate allocation sequence by covariate-adjusted Adaptive Randomization via Mahalanobis-distance (ARM) for RCT.
 
-Install
+Installation
 -----
 Directly download in R; for detailed information, please visit [the website.](https://cran.r-project.org/web/packages/CARM/index.html)
+
+Publications
+-----
+[1]Qin, Y., Y. Li, W. Ma, H. Yang, and F. Hu (2022). Adaptive randomization via mahalanobis distance. Statistica Sinica. https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0440_na.pdf
 
